@@ -1,0 +1,68 @@
+[
+  {
+    "categoryId": "1",
+    "name": "Vaughan-Bassett Vanity Dresser with Mirror",
+    "picture": "https://ibb.co/Ln5wVW3",
+    "resalePrice": "1200",
+    "originalPrice": "3000",
+    "yearsOfUse": "1 year use",
+    "postedTime": "11/29/2022, 11:04:04 AM",
+    "sellerName": "salman",
+    "location": "feni"
+  },
+  {
+    "categoryId": "1",
+    "name": "Vaughan Basset Nightstand",
+    "picture": "https://ibb.co/pPp4r3T",
+    "resalePrice": "1600",
+    "originalPrice": "2400",
+    "yearsOfUse": "9 month use",
+    "postedTime": "11/29/2022, 11:04:04 AM",
+    "sellerName": "salman",
+    "location": "dhaka"
+  },
+  {
+    "categoryId": "2",
+    "name": "West Elm Portside Aluminum Outdoor Kitchen",
+    "picture": "https://ibb.co/k9JBm7F",
+    "resalePrice": "1800",
+    "originalPrice": "2600",
+    "yearsOfUse": "7 month use",
+    "postedTime": "11/29/2022, 11:04:04 AM",
+    "sellerName": "salman",
+    "location": "cumilla"
+  },
+  {
+    "categoryId": "2",
+    "name": "Ashley MCM Mid Century Centiar Dining Room Table, Brown",
+    "picture": "https://ibb.co/XtKLMGr",
+    "resalePrice": "2000",
+    "originalPrice": "3000",
+    "yearsOfUse": "1 year use",
+    "postedTime": "11/28/2022, 11:04:04 AM",
+    "sellerName": "tanzid",
+    "location": "dhaka"
+  },
+  {
+    "categoryId": "3",
+    "name": "Classic Style Dining Room Set",
+    "picture": "https://ibb.co/1G3xpPH",
+    "resalePrice": "3500",
+    "originalPrice": "4500",
+    "yearsOfUse": "1 year use",
+    "postedTime": "11/29/2022, 11:04:04 AM",
+    "seller'sName": "tanzid",
+    "location": "Rajshahi"
+  },
+  {
+    "categoryId": "3",
+    "name": "Broyhill Furniture Dining Room Credenza",
+    "picture": "https://ibb.co/3zLm3C2",
+    "resalePrice": "3600",
+    "originalPrice": "4500",
+    "yearsOfUse": "11 month use",
+    "postedTime": "10/29/2022, 11:04:04 AM",
+    "sellerName": "tanzid",
+    "location": "Chittagong"
+  }
+]
